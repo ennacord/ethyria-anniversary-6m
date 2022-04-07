@@ -1,25 +1,19 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
-import ViewEnnaOpening from '../views/ViewEnnaOpening.vue'; // by alpha
-
-// import '../alpha&mb_contributes/hideScrollbarOverriding.css'  //alpha;
-
-import ViewEnnaHome from '../views/ViewEnnaHome.vue';
+import HomeView from '../views/HomeView.vue';
 
 Vue.use(VueRouter);
 
-const routes = [{
-    path: '/EnnaAlouette',
-    name: 'ViewEnnaHome',
-    component: ViewEnnaHome,
-}, {
+const routes = [
+  {
     path: '/',
-    name: 'ViewEnnaOpening',
-    component: ViewEnnaOpening,
-}];
+    name: 'home',
+    component: HomeView,
+  },
+];
 
 const router = new VueRouter({
-    routes,
+  routes,
 });
 
 export default router;
