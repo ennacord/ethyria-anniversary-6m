@@ -3,14 +3,15 @@
     <v-row no-gutters>
       <v-col cols="12" class="text-center black--text">
         <p>
-          For Enna Alouette. From Aloupeeps.
+          <strong>For Enna Alouette. From Aloupeeps.</strong>
         </p>
         <p>
           Management: Ennacord staff<br />
-          Programming: jetrico<br />
-          Header &amp; Background: Hel<br />
+          Programming, Head message: jetrico<br />
+          Header &amp; Background Art: Hel<br />
           Aloupeeps on Cards: Frank<br />
           Timeline committee: koshka-sova, Professor Nobu<br />
+          Popup Video: MB, Modal: AlphaBud<br />
         </p>
         <p>
           <strong>Country Roads Acapella</strong><br />
@@ -34,6 +35,13 @@
             wister, wax apple, Sorekasho, oja, Toast,<br />
             mirrorline, Garfield Factory, Hel, Frank, Hexvati,<br />
             jetrico, Voldox, MinniJay, no1, sojuice
+        </p>
+        <p>
+          <strong>Ethyria Portal</strong>
+          (<a href="https://ethyria6m.fromyour.fans" target="_blank">link</a>)<br />
+          Programming: AlphaBud<br />
+          Character Artworks: MinniJay, Hel<br />
+          Background, Word Art: Professor Nobu<br />
         </p>
       </v-col>
     </v-row>
