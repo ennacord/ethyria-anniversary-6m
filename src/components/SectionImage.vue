@@ -23,6 +23,7 @@
 
 <script>
 import image from '@/assets/enna6m-quilt.png';
+import imageFull from '@/assets/enna6m-quilt-full.png';
 
 export default {
   props: [],
@@ -31,7 +32,7 @@ export default {
   }),
   methods: {
     onImgClick() {
-      window.open(this.image);
+      window.open(imageFull);
     },
   },
 };
