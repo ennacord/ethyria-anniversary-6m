@@ -1,19 +1,22 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
-import HomeView from '../views/HomeView.vue';
+import ViewEnnaHome from '../views/ViewEnnaHome.vue';
+import ViewEnnaOpening from '../views/ViewEnnaOpening.vue'; // by alpha
 
 Vue.use(VueRouter);
 
-const routes = [
-  {
+const routes = [{
+    path: '/EnnaAlouette',
+    name: 'ViewEnnaHome',
+    component: ViewEnnaHome,
+}, {
     path: '/',
-    name: 'home',
-    component: HomeView,
-  },
-];
+    name: 'ViewEnnaOpening',
+    component: ViewEnnaOpening,
+}];
 
 const router = new VueRouter({
-  routes,
+    routes,
 });
 
 export default router;
