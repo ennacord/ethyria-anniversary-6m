@@ -48,4 +48,5 @@ module.exports = defineConfig({
       background_color: '#ffffff',
       start_url: './',
     },
+  },
 });
