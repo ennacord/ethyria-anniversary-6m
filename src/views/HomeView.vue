@@ -6,7 +6,7 @@
       <button id="show-modal" @click="showModal = true">Watch Intro Again</button>
       <SectionHero />
     </div>
-    <div class="section mb-12">
+    <div class="section mb-12 intro-modal">
       <modal class="modal" :show="showModal" @close="showModal = false">
         <modal />
       </modal>
@@ -54,11 +54,7 @@ export default {
 #show-modal {
   color: black;
   opacity: 0.5;
-  
-}
 
-.modal {
-  z-index: 99;
 }
 
 #page-home {
@@ -106,6 +102,13 @@ export default {
       border-color: #858ed1;
       border-right: 4px solid #858ed1;
       border-bottom: 4px solid #858ed1;
+    }
+  }
+  &.intro-modal {
+    position:relative;
+    z-index:100;
+    .modal {
+      z-index: 99999;
     }
   }
 }
