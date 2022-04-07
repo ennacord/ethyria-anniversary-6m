@@ -40,6 +40,10 @@ import { Tweet } from 'vue-tweet-embed';
 const FixedAloupeeps = {
   jetrico: 12,
   Zer0Pendragon6: 5,
+  MiikeMQ: 10,
+  guGGy: 7,
+  'Professor Nobu': 4,
+  Magspark: 10,
 };
 
 export default {
