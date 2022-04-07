@@ -28,6 +28,7 @@
         </div>
         <div class="rewind-right black--text">
           <div class="rewind-texts">
+            <h2 class="mb-4">October 2021</h2>
             <div class="card mb-2">
               <div class="card-text text-body-1 pa-2">
                 Perfect exhibit of Ethyria's early dynamics,
@@ -49,6 +50,7 @@
       <v-col>
         <div class="rewind-left black--text text-right">
           <div class="rewind-texts">
+            <h2 class="mb-4">November 2021</h2>
             <div class="card mb-2">
               <div class="card-text text-body-1 pa-2">
                 Enna loves Ooga Boogas as much as us,
@@ -93,6 +95,7 @@
         </div>
         <div class="rewind-right black--text">
           <div class="rewind-texts">
+            <h2 class="mb-4">December 2021</h2>
             <div class="card mb-2">
               <div class="card-text text-body-1 pa-2">
                 We can't NOT include life advice from Enna.
@@ -115,6 +118,7 @@
       <v-col>
         <div class="rewind-left black--text text-right">
           <div class="rewind-texts">
+            <h2 class="mb-4">January 2022</h2>
             <div class="card mb-2">
               <div class="card-text text-body-1 pa-2">
                 This was a incredible moment for the Songbird,
@@ -161,6 +165,7 @@
         </div>
         <div class="rewind-right black--text">
           <div class="rewind-texts">
+            <h2 class="mb-4">February 2022</h2>
             <div class="card mb-2">
               <div class="card-text text-body-1 pa-2">
                 Ah, yes. "Never listen to chat" *wink wonk*.
@@ -182,6 +187,7 @@
       <v-col>
         <div class="rewind-left black--text text-right">
           <div class="rewind-texts">
+            <h2 class="mb-4">March 2022</h2>
             <div class="card mb-2">
               <div class="card-text text-body-1 pa-2">
                 "HELLO EVERYBODY , I AM THE GREAT ROSEMI LOVELOCK-SAMA!
@@ -227,6 +233,7 @@
         </div>
         <div class="rewind-right black--text">
           <div class="rewind-texts">
+            <h2 class="mb-4">April 2022</h2>
             <div class="card mb-2">
               <div class="card-text text-body-1 pa-2">
                 This is TOO GOOD not to be mentioned.
