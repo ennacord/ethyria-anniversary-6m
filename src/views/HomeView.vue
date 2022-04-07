@@ -35,7 +35,7 @@ import modal from "@/components/ModalOpening.vue";
 
 export default {
   data: () => ({
-    showModal: true, //initial state
+    showModal: false,
   }),
   name: "HomeView",
   components: {
@@ -46,6 +46,12 @@ export default {
     SectionCredits,
 
     modal,
+  },
+  mounted() {
+    if (!localStorage.getItem('intro')) {
+      this.showModal = true;
+      localStorage.setItem('intro', 1);
+    }
   },
 };
 </script>
