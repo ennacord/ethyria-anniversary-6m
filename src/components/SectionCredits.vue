@@ -44,6 +44,7 @@
           <strong>A production of the Enna Alouette Fan Server</strong><br />
           Project Manager: Domo Espresso<br />
           Server Owner: MiikeMQ<br />
+          Tech Lead: jetrico<br />
           and all Aloupeeps who celebrate these milestones with Enna and Ethyria!
         </p>
       </v-col>
