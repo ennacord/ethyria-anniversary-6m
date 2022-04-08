@@ -7,6 +7,9 @@
             src="../assets/img/section-quilt.png" height="90"
             alt="Drawing Board" />
         </h1>
+        <h2 class="grey--text text--darken-3 text-center pa-0 ma-0 white-glow">
+          Different styles, unique approaches, but the same feeling of appreciation for Enna
+        </h2>
       </v-col>
     </v-row>
     <v-row no-gutters class="px-16">
