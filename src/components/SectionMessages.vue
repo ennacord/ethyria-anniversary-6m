@@ -10,10 +10,13 @@
         <h2 class="grey--text text--darken-3 text-center pa-0 ma-0 white-glow">
           Heartfelt messages from the Aloupeeps
         </h2>
+        <h4 class="grey--text text--darken-1 text-center pa-0 ma-0 white-glow">
+          Click on any message to reposition
+        </h4>
       </v-col>
     </v-row>
     <v-row no-gutters>
-      <v-col class="pt-4">
+      <v-col class="pt-8">
         <div v-masonry="'bdaycards'" transition-duration="0.3s" item-selector=".card" stagger="0s">
           <div v-masonry-tile class="card card-style-3 card-tweet">
             <Tweet id="1511150040886173699"></Tweet>
@@ -44,6 +47,10 @@ const FixedAloupeeps = {
   guGGy: 7,
   'Professor Nobu': 4,
   Magspark: 10,
+  Elodie: 9,
+  'Domo Espresso': 4,
+  Garfield: 3,
+  'Frank Akanoru': 3,
 };
 
 export default {
