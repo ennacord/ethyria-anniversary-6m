@@ -41,7 +41,7 @@
           Background, Word Art: Professor Nobu<br />
         </p>
         <p>
-          A production of the Enna Alouette Fan Server<br />
+          <strong>A production of the Enna Alouette Fan Server</strong><br />
           Project Manager: Domo Espresso<br />
           Server Owner: MiikeMQ<br />
           and all Aloupeeps who celebrate these milestones with Enna and Ethyria!
