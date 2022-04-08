@@ -28,7 +28,7 @@
           <strong>Art Quilt</strong><br />
           Base Design: Garfield Factory<br />
           Artists (in order, top-bottom, left-right):<br />
-            reteach, Professor Nobu, Jo-さん, Erin, drum,<br />
+            reteach, Professor Nobu, Jo-さん, Erin, Drumfeelies,<br />
             lashe w, wax apple, Sorekasho, oja, Toast,<br />
             mirrorline, Garfield Factory, Hel, Frank Akanoru, Hexvati,<br />
             jetrico, Voldox, MinniJay, no1, sojuice
