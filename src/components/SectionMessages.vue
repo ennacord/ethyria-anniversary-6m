@@ -11,7 +11,7 @@
           Heartfelt messages from the Aloupeeps
         </h2>
         <h4 class="grey--text text--darken-1 text-center pa-0 ma-0 white-glow">
-          Click on any message to reposition
+          Click on any message to reposition cards in case of overlaps
         </h4>
       </v-col>
     </v-row>
