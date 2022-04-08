@@ -51,6 +51,7 @@ const FixedAloupeeps = {
   'Domo Espresso': 4,
   Garfield: 3,
   'Frank Akanoru': 3,
+  Lili: 7,
 };
 
 export default {
