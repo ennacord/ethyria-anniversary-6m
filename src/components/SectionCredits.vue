@@ -11,7 +11,7 @@
           Header &amp; Background Art: Hel<br />
           Aloupeeps on Cards: Frank Akanoru<br />
           Timeline committee: koshka-sova, Professor Nobu<br />
-          Popup Video: MB, Vince, Modal: AlphaBud<br />
+          Popup Video: MB, Music: Vince, Modal: AlphaBud<br />
         </p>
         <p>
           <strong>Country Roads Acapella</strong><br />
